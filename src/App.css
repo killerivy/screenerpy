@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  padding: 50px;
+}
+.filterRow{
+  display: flex;
+  justify-content: flex-start;
 }
 
 .App-logo {
